@@ -1,0 +1,26 @@
+name: BFTDM
+main: com.vark.BFTDM.Main
+version: 1.2
+api-version: 1.15
+author: VarkShark
+commands:
+    bftdm:
+        description: Blockfront Team Death Match
+        usage: /bftdm
+
+        
+
+   
+
+
+
+permissions:
+    bftdm.admin:
+        description: Admin Perms
+        default: op
+        
+
+        
+        
+    
+
